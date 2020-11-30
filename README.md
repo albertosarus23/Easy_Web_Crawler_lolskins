@@ -9,3 +9,5 @@ Noticed that you should changed the path to your destination folder in order to 
 
 project builds on jupyter notebook in Python 3.0 language, with few library imported. 
 Friendly for beginner who is new to web_crawler
+
+The ideal outcome should be looked like those screenshots I uploaded as attachments(using macbook os system)
