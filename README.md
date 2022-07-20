@@ -20,4 +20,4 @@ https://drive.google.com/file/d/1DQx5Isq-yi65A3tmW14LocydsAIsGGRT/view?usp=shari
 
 
 video
-https://drive.google.com/file/d/1xovbg_jKr4dlvsPq4XPhoEMFLeNQP1Df/view
+https://drive.google.com/file/d/1xovbg_jKr4dlvsPq4XPhoEMFLeNQP1Df/view?usp=sharing
