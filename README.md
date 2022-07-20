@@ -13,7 +13,7 @@ Friendly for beginner who is new to web_crawler
 The ideal outcome should be looked like those screenshots I uploaded as attachments(using macbook os system)
 
 
-https://drive.google.com/file/d/1ObwFbSabtmqL3qWI8i6tvTcBvU8yrDK0/view?usp=sharing
+phone app: https://drive.google.com/file/d/1qhmf0Ij4CtZEeMlJAUSwoMXLDqrnUgTr/view?usp=sharing
 
 
 https://drive.google.com/file/d/1DQx5Isq-yi65A3tmW14LocydsAIsGGRT/view?usp=sharing
